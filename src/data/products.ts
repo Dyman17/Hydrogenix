@@ -42,7 +42,7 @@ export const products: Product[] = [
     ],
     category: 'plant',
     rating: 4.8,
-    image: '/tubikkk.PNG',
+    image: '/package.jpeg',
     characteristics: {
       composition: 'Агар-агар, глицерин, целлюлоза',
       absorption: 'x300',
@@ -68,7 +68,7 @@ export const products: Product[] = [
     ],
     category: 'agriculture',
     rating: 4.9,
-    image: '/tubikkk.PNG',
+    image: '/package.jpeg',
     characteristics: {
       composition: 'Агар-агар, глицерин, целлюлоза',
       absorption: 'x350',
@@ -94,7 +94,7 @@ export const products: Product[] = [
     ],
     category: 'agriculture',
     rating: 4.7,
-    image: '/vedrooo.PNG',
+    image: '/package.jpeg',
     characteristics: {
       composition: 'Агар-агар, глицерин, целлюлоза, микроэлементтер',
       absorption: 'x280',
@@ -120,7 +120,7 @@ export const products: Product[] = [
     ],
     category: 'agriculture',
     rating: 4.5,
-    image: '/vedrooo.PNG',
+    image: '/package.jpeg',
     characteristics: {
       composition: 'Агар-агар, глицерин, целлюлоза',
       absorption: 'x300',

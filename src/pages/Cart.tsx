@@ -129,9 +129,11 @@ const Cart = () => {
                 </div>
               </div>
 
-              <Button variant="hero" size="xl" className="w-full">
-                {t('cart.checkout')}
-              </Button>
+              <Link to="/checkout">
+                <Button variant="hero" size="xl" className="w-full">
+                  {t('cart.checkout')}
+                </Button>
+              </Link>
             </div>
           </div>
         </div>

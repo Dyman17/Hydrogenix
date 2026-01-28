@@ -12,6 +12,7 @@ import Shop from "./pages/Shop";
 import Product from "./pages/Product";
 import Calculator from "./pages/Calculator";
 import Cart from "./pages/Cart";
+import Checkout from "./pages/Checkout";
 import Profile from "./pages/Profile";
 import Login from "./pages/Login";
 import Register from "./pages/Register";
@@ -35,6 +36,7 @@ const App = () => (
                   <Route path="/product/:id" element={<Product />} />
                   <Route path="/calculator" element={<Calculator />} />
                   <Route path="/cart" element={<Cart />} />
+                  <Route path="/checkout" element={<Checkout />} />
                   <Route path="/profile" element={<Profile />} />
                   <Route path="/login" element={<Login />} />
                   <Route path="/register" element={<Register />} />
