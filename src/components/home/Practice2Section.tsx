@@ -14,7 +14,7 @@ const Practice2Section = () => {
           <div className="text-center space-y-4">
             <div className="aspect-square rounded-2xl overflow-hidden shadow-lg">
               <img 
-                src="/black_pill.jpeg" 
+                src="/before_outside.jpeg" 
                 alt={t('practice2.image1_alt')}
                 className="w-full h-full object-cover"
               />
@@ -27,7 +27,7 @@ const Practice2Section = () => {
           <div className="text-center space-y-4">
             <div className="aspect-square rounded-2xl overflow-hidden shadow-lg">
               <img 
-                src="/good_pill.jpeg" 
+                src="/before_inside.jpeg" 
                 alt={t('practice2.image2_alt')}
                 className="w-full h-full object-cover"
               />
