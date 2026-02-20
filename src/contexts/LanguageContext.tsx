@@ -162,6 +162,9 @@ const translations: Record<Language, Record<string, string>> = {
     'practice2.image1_caption': 'Гидрогельді дала топырағына егілген өсімдікке қосу, практика басы',
     'practice2.image2_alt': 'Гидрогельді бөлме топырағына егілген өсімдікке қосу, практика басы',
     'practice2.image2_caption': 'Гидрогельді бөлме топырағына егілген өсімдікке қосу, практика басы',
+    'practice2.results_title': 'Практика нәтижелері',
+    'practice2.results_text1': 'Тәжірибе барысында гидрогельдің әртүрлі топырақ түрлерінде әртүрлі тиімділік көрсететіні анықталды. Дала жағдайларында гидрогель ылғалды сақтауға және өсімдіктердің өсуін жақсартуға көмектеседі, ал бөлме жағдайларында нәтиже топырақ құрамына және суару жиілігіне байланысты.',
+    'practice2.results_text2': 'Тәжірибе гидрогельді дұрыс қолдану суару жиілігін айтарлықтай қысқартуға және кез келген жағдайда өсімдіктердің жағдайын жақсартуға мүмкіндік береді деп көрсетті.',
   },
   ru: {
     // Navigation
@@ -316,6 +319,9 @@ const translations: Record<Language, Record<string, string>> = {
     'practice2.image1_caption': 'Добавление гидрогеля растению в полевую почву, начало практики',
     'practice2.image2_alt': 'Добавление гидрогеля растению в комнатную почву, начало практики',
     'practice2.image2_caption': 'Добавление гидрогеля растению в комнатную почву, начало практики',
+    'practice2.results_title': 'Результаты практики',
+    'practice2.results_text1': 'В ходе эксперимента было установлено, что гидрогель показывает разную эффективность в различных типах почвы. В полевых условиях гидрогель помогает сохранить влагу и улучшить рост растений, в то время как в комнатных условиях результат зависит от состава почвы и частоты полива.',
+    'practice2.results_text2': 'Опыт показал, что правильное применение гидрогеля позволяет значительно сократить частоту полива и улучшить состояние растений в любых условиях.',
   },
   en: {
     // Navigation
@@ -470,6 +476,9 @@ const translations: Record<Language, Record<string, string>> = {
     'practice2.image1_caption': 'Adding hydrogel to plant in field soil, practice start',
     'practice2.image2_alt': 'Adding hydrogel to plant in indoor soil, practice start',
     'practice2.image2_caption': 'Adding hydrogel to plant in indoor soil, practice start',
+    'practice2.results_title': 'Practice Results',
+    'practice2.results_text1': 'During the experiment, it was found that hydrogel shows different effectiveness in different soil types. In field conditions, hydrogel helps retain moisture and improve plant growth, while in indoor conditions the result depends on soil composition and watering frequency.',
+    'practice2.results_text2': 'The experiment showed that proper use of hydrogel allows to significantly reduce watering frequency and improve plant condition in any conditions.',
   },
 };
 

@@ -11,30 +11,40 @@ const Practice2Section = () => {
         </h2>
         
         <div className="grid md:grid-cols-2 gap-8 max-w-6xl mx-auto">
-          <div className="text-center space-y-4">
-            <div className="aspect-square rounded-2xl overflow-hidden shadow-lg">
-              <img 
-                src="/before_outside.jpeg" 
-                alt={t('practice2.image1_alt')}
-                className="w-full h-full object-cover"
-              />
+          <div className="space-y-6">
+            <div className="text-center space-y-4">
+              <div className="aspect-square rounded-2xl overflow-hidden shadow-lg">
+                <img 
+                  src="/public/before_outside.jpeg" 
+                  alt={t('practice2.image1_alt')}
+                  className="w-full h-full object-cover"
+                />
+              </div>
+              <p className="text-lg font-medium text-muted-foreground">
+                {t('practice2.image1_caption')}
+              </p>
             </div>
-            <p className="text-lg font-medium text-muted-foreground">
-              {t('practice2.image1_caption')}
-            </p>
+            
+            <div className="text-center space-y-4">
+              <div className="aspect-square rounded-2xl overflow-hidden shadow-lg">
+                <img 
+                  src="/public/before_inside.jpeg" 
+                  alt={t('practice2.image2_alt')}
+                  className="w-full h-full object-cover"
+                />
+              </div>
+              <p className="text-lg font-medium text-muted-foreground">
+                {t('practice2.image2_caption')}
+              </p>
+            </div>
           </div>
           
-          <div className="text-center space-y-4">
-            <div className="aspect-square rounded-2xl overflow-hidden shadow-lg">
-              <img 
-                src="/before_inside.jpeg" 
-                alt={t('practice2.image2_alt')}
-                className="w-full h-full object-cover"
-              />
+          <div className="flex items-center justify-center">
+            <div className="w-full h-full min-h-[400px] rounded-2xl bg-muted/30 border-2 border-dashed border-muted-foreground/20 flex items-center justify-center">
+              <p className="text-muted-foreground/50 text-lg">
+                Место для будущих фотографий
+              </p>
             </div>
-            <p className="text-lg font-medium text-muted-foreground">
-              {t('practice2.image2_caption')}
-            </p>
           </div>
         </div>
       </div>
