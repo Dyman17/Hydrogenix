@@ -148,6 +148,20 @@ const translations: Record<Language, Record<string, string>> = {
     // Footer
     'footer.rights': 'Барлық құқықтар қорғалған',
     'footer.made_with': 'Қазақстанда жасалған ❤️',
+    
+    // Practice 1
+    'practice1.title': 'Гидрогельді практикада сынау',
+    'practice1.image1_alt': 'Қара дақ пайда болып, солып жатқан өсімдік',
+    'practice1.image1_caption': 'Қара дақ пайда болып, солып жатқан өсімдік',
+    'practice1.image2_alt': 'Өсімдік топырағына гидрогель қосылғаннан кейін жаңа , сау, әрі таза өскін өсіп шығады',
+    'practice1.image2_caption': 'Өсімдік топырағына гидрогель қосылғаннан кейін жаңа, сау, әрі таза өскін өсіп шығады',
+    
+    // Practice 2
+    'practice2.title': 'Практика 2: Гидрогельдің қай топырақ түрінде тиімді екенін анықтау',
+    'practice2.image1_alt': 'Гидрогельді дала топырағына егілген өсімдікке қосу, практика басы',
+    'practice2.image1_caption': 'Гидрогельді дала топырағына егілген өсімдікке қосу, практика басы',
+    'practice2.image2_alt': 'Гидрогельді бөлме топырағына егілген өсімдікке қосу, практика басы',
+    'practice2.image2_caption': 'Гидрогельді бөлме топырағына егілген өсімдікке қосу, практика басы',
   },
   ru: {
     // Navigation
@@ -288,6 +302,20 @@ const translations: Record<Language, Record<string, string>> = {
     // Footer
     'footer.rights': 'Все права защищены',
     'footer.made_with': 'Сделано в Казахстане ❤️',
+    
+    // Practice 1
+    'practice1.title': 'Тестирование гидрогеля на практике',
+    'practice1.image1_alt': 'Растение с черными пятнами, увядающее',
+    'practice1.image1_caption': 'Растение с черными пятнами, увядающее',
+    'practice1.image2_alt': 'После добавления гидрогеля в почву растения вырастают новые, здоровые и чистые ростки',
+    'practice1.image2_caption': 'После добавления гидрогеля в почву растения вырастают новые, здоровые и чистые ростки',
+    
+    // Practice 2
+    'practice2.title': 'Практика 2: Определение эффективности гидрогеля в различных типах почвы',
+    'practice2.image1_alt': 'Добавление гидрогеля растению в полевую почву, начало практики',
+    'practice2.image1_caption': 'Добавление гидрогеля растению в полевую почву, начало практики',
+    'practice2.image2_alt': 'Добавление гидрогеля растению в комнатную почву, начало практики',
+    'practice2.image2_caption': 'Добавление гидрогеля растению в комнатную почву, начало практики',
   },
   en: {
     // Navigation
@@ -428,6 +456,20 @@ const translations: Record<Language, Record<string, string>> = {
     // Footer
     'footer.rights': 'All rights reserved',
     'footer.made_with': 'Made in Kazakhstan ❤️',
+    
+    // Practice 1
+    'practice1.title': 'Testing Hydrogel in Practice',
+    'practice1.image1_alt': 'Plant with black spots, wilting',
+    'practice1.image1_caption': 'Plant with black spots, wilting',
+    'practice1.image2_alt': 'After adding hydrogel to plant soil, new, healthy and clean sprouts grow',
+    'practice1.image2_caption': 'After adding hydrogel to plant soil, new, healthy and clean sprouts grow',
+    
+    // Practice 2
+    'practice2.title': 'Practice 2: Determining the effectiveness of hydrogel in different soil types',
+    'practice2.image1_alt': 'Adding hydrogel to plant in field soil, practice start',
+    'practice2.image1_caption': 'Adding hydrogel to plant in field soil, practice start',
+    'practice2.image2_alt': 'Adding hydrogel to plant in indoor soil, practice start',
+    'practice2.image2_caption': 'Adding hydrogel to plant in indoor soil, practice start',
   },
 };
 
